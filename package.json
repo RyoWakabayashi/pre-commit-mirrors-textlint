@@ -1,5 +1,5 @@
 {
     "name": "pre-commit-mirrors-textlint",
     "description": "Pre-commit hook to run textlint",
-    "version": "12.1.1"
+    "version": "12.2.0"
 }
