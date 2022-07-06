@@ -1,5 +1,5 @@
 {
-    "name": "placeholder_package",
-    "description": "Note: double curly-braces because python .format",
-    "version": "0.0.0"
+    "name": "pre-commit-mirrors-textlint",
+    "description": "Pre-commit hook to run textlint",
+    "version": "12.1.0"
 }
